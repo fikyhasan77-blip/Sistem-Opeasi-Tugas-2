@@ -23,9 +23,8 @@ SOAL
   buka file $cat/etc/group kemudian analisa untuk root:x:0
 
 JAWAB
-
-1.
-   ![Hasil Percobaan 1](Cuplikan%20layar%202026-10-05%20043138.png)
+1. 
+  ![Hasil Percobaan 1](Cuplikan%20layar%202026-10-05%20043138.png)
   
 2.  
  ![Hasil Percobaan 2](Cuplikan%20layar%202026-10-05%20043144.png)
