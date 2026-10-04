@@ -23,12 +23,14 @@ SOAL
   buka file $cat/etc/group kemudian analisa untuk root:x:0
 
 JAWAB
+
 1. 
+
   ![Hasil Percobaan 1](Cuplikan%20layar%202026-10-05%20043138.png)
   
-2.  
+1.  
  ![Hasil Percobaan 2](Cuplikan%20layar%202026-10-05%20043144.png)
 
    
-3. Berdasarkan File /etc/group, root:x:0 Menunjukkan Bahwa root Merupakan Nama Grup,X Menunjukkan Password Grup,0 Merupakan Group ID (GID), Dan Kolom Member Kosong Karena Tidak Terdapat User Tambahan Yang Tercantum Pada Grup Tersebut
+2. Berdasarkan File /etc/group, root:x:0 Menunjukkan Bahwa root Merupakan Nama Grup,X Menunjukkan Password Grup,0 Merupakan Group ID (GID), Dan Kolom Member Kosong Karena Tidak Terdapat User Tambahan Yang Tercantum Pada Grup Tersebut
 ![Hasil Percobaan 3](Cuplikan%20layar%202026-10-05%20043159.png)
