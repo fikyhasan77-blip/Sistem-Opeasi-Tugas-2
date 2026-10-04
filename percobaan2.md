@@ -12,15 +12,15 @@ SOAL
 
 1.Tugas Percobaan 1 Informasi finger
 
-    ubahlah informasi finger pada komputer anda
+ubahlah informasi finger pada komputer anda
 
 2.Tugas Percobaan 2 Log User Aktif
 
-    lihatlah user-user yang sedang aktif pada komputer anda
+ lihatlah user-user yang sedang aktif pada komputer anda
 
 3.Tugas Percobaan 3 Group
 
-    buka file $cat/etc/group kemudian analisa untuk root:x:0
+buka file $cat/etc/group kemudian analisa untuk root:x:0
 
 JAWAB
 
