@@ -1,9 +1,6 @@
 Nama: Fiky Hasannudin
-
 NIM: 09011382530183
-
 Kelas:SKU3A
-
 Matkul:Sistem Operasi
 
 Tugas 2
