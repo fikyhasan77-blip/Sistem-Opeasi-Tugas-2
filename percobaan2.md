@@ -1,6 +1,6 @@
 Nama: Fiky Hasannudin
 
-NIM: 09011382530183
+NIM: 09011382530147
 
 Kelas:SKU3A
 
