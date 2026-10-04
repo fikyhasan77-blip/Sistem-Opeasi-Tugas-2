@@ -6,7 +6,7 @@ Kelas:SKU3A
 
 Matkul:Sistem Operasi
 
-Tugas 4
+Tugas 2
 
 SOAL
 
